@@ -1,3 +1,4 @@
+HEAD
 # Customer Retention
 
 ## 🔴 Detailed Session on EDA:
@@ -79,3 +80,6 @@ Below message in Python shell is seen, which indicates that our App is now hoste
 HERE'S HOW OUR FRONTEND LOOKS LIKE:
 
 ![Customer Retention](https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco6.JPG)
+
+# ChurnDetect
+481d4752357f7eb0ce563e6e680bd678b3f802e2
